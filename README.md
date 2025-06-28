@@ -1,6 +1,6 @@
-# Web Pengaduan Online – PNP & Unand
+# SIGAP - Sistem Gerak Cepat Atasi Pengaduan
 
-Web pengaduan online berbasis Laravel yang dikembangkan sebagai solusi digital untuk meningkatkan pelayanan publik di lingkungan kampus. Proyek ini merupakan hasil kolaborasi dengan Bhabinkamtibmas setempat
+Web pengaduan online berbasis Laravel yang dikembangkan sebagai solusi digital untuk meningkatkan pelayanan publik di lingkungan kampus. Proyek ini merupakan hasil kolaborasi dengan Bhabinkamtibmas setempat.
 
 ## Fitur Utama
 
